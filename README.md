@@ -1,4 +1,4 @@
-# 📱 AP.A.M Mobile - Application de Dossier Médical Partagé
+# 📱 AP.A.M Mobile - Application d'Assistance Médical Partagé
 
 Bienvenue sur le dépôt de l'application mobile **AP.A.M** (Application Patient-Médecin), une solution complète pour la gestion de la santé et la téléconsultation.
 
